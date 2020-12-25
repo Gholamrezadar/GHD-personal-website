@@ -11,6 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
+        <img src="/Bubble Logo.svg"></img>
         <Header title="Welcome to my website!" />
         <p className="description">
           still a work in progress ...
