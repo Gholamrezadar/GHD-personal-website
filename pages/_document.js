@@ -37,7 +37,6 @@ class MyDocument extends Document {
             rel="stylesheet"
             href="https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.css"
           />
-          <link rel="stylesheet" href="styles.css" />
           <title>Gholamrezadar | Personal Blog</title>
         </Head>
         <body>
