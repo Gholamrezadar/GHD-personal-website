@@ -1,5 +1,5 @@
 {
-  "name": "next-netlify-starter",
+  "name": "ghd-website-on-vercel",
   "version": "0.2.0",
   "private": true,
   "scripts": {
@@ -12,5 +12,7 @@
     "next": "10.0.4",
     "react": "17.0.1",
     "react-dom": "17.0.1"
-  }
+  },
+  "keywords": [],
+  "description": ""
 }
