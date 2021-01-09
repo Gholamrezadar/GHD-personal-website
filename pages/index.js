@@ -38,7 +38,7 @@ const ThemeToggler = () => {
 
 const SocialMediaIcon = ({ url, icon }) => {
   return (
-    <Link href={url} prefetch={false}>
+    <Link href={url} prefetch={false} passHref={true}>
       <a>
         <svg
           viewBox="0 0 24 24"
