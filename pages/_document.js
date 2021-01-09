@@ -8,7 +8,7 @@ class MyDocument extends Document {
 
   render() {
     return (
-      <Html>
+      <Html lang="en">
         <Head>
           <meta charSet="UTF-8" />
           <meta
@@ -27,11 +27,12 @@ class MyDocument extends Document {
             as="style"
             href="https://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic"
           />
-          {/* CSS Reset */}
+          {/* CSS Reset 
           <link
             rel="stylesheet"
             href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css"
           />
+          */}
           {/* Milligram CSS */}
           <link
             rel="stylesheet"
