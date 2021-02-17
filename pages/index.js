@@ -1,4 +1,5 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
+import { hotjar } from "react-hotjar";
 import Link from "next/link";
 
 const ThemeToggler = () => {
@@ -65,6 +66,9 @@ const telegramIcon = () => (
 );
 
 export default function Home() {
+  useEffect(() => {
+    hotjar.initialize(2251569, 6);
+  });
   return (
     <div>
       <div className="nav-desktop">
