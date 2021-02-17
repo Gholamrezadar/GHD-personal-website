@@ -86,7 +86,7 @@ export default function Home() {
         <div className="flex">
           <img
             className="logo"
-            src="logo.webp"
+            src="logo_low.webp"
             width="350px"
             height="236px"
             alt="GHD logo"
