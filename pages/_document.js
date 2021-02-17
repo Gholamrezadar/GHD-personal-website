@@ -38,7 +38,6 @@ class MyDocument extends Document {
             rel="stylesheet"
             href="https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.css"
           />
-          <!-- Hotjar Tracking Code for gholamrezadar.ir -->
           <script>
               (function(h,o,t,j,a,r){
                   h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
