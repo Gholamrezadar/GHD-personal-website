@@ -38,7 +38,7 @@ class MyDocument extends Document {
             rel="stylesheet"
             href="https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.css"
           />
-      {
+              {
               (function(h,o,t,j,a,r){
                   h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
                   h._hjSettings={hjid:2251569,hjsv:6};
@@ -47,7 +47,7 @@ class MyDocument extends Document {
                   r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
                   a.appendChild(r);
               })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
-  }
+              }
           <title>Gholamrezadar | Personal Blog</title>
         </Head>
         <body>
