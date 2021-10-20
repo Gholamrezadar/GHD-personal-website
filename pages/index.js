@@ -93,7 +93,7 @@ export default function Home() {
           />
           <div className="texts">
             <h2 className="gradient-text">Gholamreza Dar</h2>
-            <h4>Web and Mobile Developer</h4>
+            <h4>Software Engineer</h4>
             <div className="social-media-container">
               <SocialMediaIcon
                 url={"https://github.com/gholamrezadar"}
